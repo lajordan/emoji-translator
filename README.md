@@ -1,6 +1,5 @@
 # emoji-translator
 
-MVP: command-line interface where you enter in "happy" or "sad" and it gives you the appropriate emoji
+Translates English to emoji.
 
-1. Write it in Python (includnig user input)
-2. (time permitting) turn it into a website (like Google Translate)
+Important: To run, download this file https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit into your directory (it's too big to fit in the repo).
